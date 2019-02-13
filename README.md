@@ -18,4 +18,4 @@ https://drive.google.com/drive/folders/1uQ-0Ffr7jTWBtHYn7chOG0RuRyGAJBnQ?usp=sha
 
 **Calculations of Scores:**
 
-Performance Score = 5 + 2.5*Porcentage Near Standard/100 + 5*(Porcentage Above Standard/100 - Porcentage Below Standard/100 )
+Performance Score = 5 + 2.5(Porcentage Near Standard/100) + 5(Porcentage Above Standard/100 - Porcentage Below Standard/100 )
