@@ -16,6 +16,6 @@ The story seems to be that Mission Hill tends to do better across all claims due
 
 https://drive.google.com/drive/folders/1uQ-0Ffr7jTWBtHYn7chOG0RuRyGAJBnQ?usp=sharing
 
-**Calculations of Scores:**
+**Calculation of Scores:**
 
 Performance Score = 5 + 2.5(Porcentage Near Standard/100) + 5(Porcentage Above Standard/100 - Porcentage Below Standard/100 )
